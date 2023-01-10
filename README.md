@@ -9,7 +9,8 @@ Your Link Here
 # Tugas membuat Package and Modul
 # Tugas yang diberikan memiliki soal sebagai berikut
 
-soal
+# soal
+![img](gambar/soal.png)
 
 Penjelsan
 
@@ -99,26 +100,27 @@ Penjelsan
 
 HURUF T
 
-huruf T
+![img](gambar/t.png)
 
 HURUF C
 
-huruf C
+![img](gambar/c.png)
 
 HURUF U
 
-huruf U
+![img](gambar/u.png)
 
 HURUF L
 
-huruf L
+![img](gambar/l.png)
 
 HURUF H
 
-Huruf H
+![img](gambar/h.png)
 
 HURUF K
 
-huruf K
+![img](gambar/k.png)
+
 
 Sekian penjelasan yang saya dampaikan jika masih ada kekurangan mohon dimaafkan dan teima kasih.
