@@ -4,7 +4,7 @@ PROJEK-UAS
 # NIM   : 312210374
 # KELAS : TI.22.A.4
 # LINK PENJELASAN ADA DIBAWAH INI DALAM BENTUK VIDIO
-https://youtu.be/DzSksDZCGzU 
+https://youtu.be/tgKrwoyM9qg
 
 # Tugas membuat Package and Modul
 # Tugas yang diberikan memiliki soal sebagai berikut
