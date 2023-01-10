@@ -1,13 +1,13 @@
 # Project_UAS
 PROJEK-UAS
-NAMA : Galva Al Godzali
-NIM : 312210356
-KELAS : TI.22.A.3
-LINK PENJELASAN ADA DIBAWAH INI DALAM BENTUK VIDIO
+# NAMA  : Hidayat Azka
+# NIM   : 312210374
+# KELAS : TI.22.A.4
+# LINK PENJELASAN ADA DIBAWAH INI DALAM BENTUK VIDIO
 Your Link Here
 
-Tugas membuat Package and Modul
-Tugas yang diberikan memiliki soal sebagai berikut
+# Tugas membuat Package and Modul
+# Tugas yang diberikan memiliki soal sebagai berikut
 
 soal
 
@@ -15,7 +15,7 @@ Penjelsan
 
 #model
 
-Daftar_Nilai
+# Daftar_Nilai
 • data = {} untuk menampung list data yang nanti akan terinput
 
 • deklarasikan fungsi def tambah_data():
@@ -28,7 +28,7 @@ Daftar_Nilai
 
 • lalu cetak print()
 
-Ubah Data
+# Ubah Data
 • deklarasikan fungsi def ubah_data():
 
 • nama = input("Masukan nama untuk mengubah data: ") kita akan menginput data yang nanti akan di ubah
@@ -49,7 +49,7 @@ Ubah Data
 
 • else: print("'{}' tidak ditemukan.".format(nama)) jika kita salah dalam memasukkan nama untuk mengubah data maka akan muncul 'nama tidak di temukan'
 
-Cari Data
+# Cari Data
 • deklarasikan fungsi def cari_data():
 
 • nama = input("Masukan nama untuk mencari data: ") kita akan menginput data yang nanti akan di cari
@@ -72,7 +72,7 @@ Cari Data
 
 • else: print("'{}' tidak ditemukan.".format(nama)) jika data yang kita input salah/tidak ditemukan maka akan tercetak 'nama tidak di temukan'
 
-Hapus Data
+# Hapus Data
 • deklarasikan fungsi def hapus_data():
 
 • nama = input("Masukan nama untuk menghapus data : ") kita akan menginput data yang nanti akan di hapus
@@ -87,15 +87,15 @@ Hapus Data
 
 #View
 
-Input Nilai
+# Input Nilai
 • menambahkan fungsi input yang nanti nya akan di deklarasikan di setiap module nya, def input_nama(): def input_nim(): dan yg lainnya, yang nanti akan di masukkan kedalam data={}
 
-View Nilai
+# View Nilai
 • deklarasikan fungsi def lihat_data(): Kita menggunakan kondisi percabangan if, ambil data dari data
 
 • lalu cetak print()
 
-Maka OUTPUT yg didaptkan adalah
+# Maka OUTPUT yg didaptkan adalah
 
 HURUF T
 
